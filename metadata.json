@@ -1,0 +1,6 @@
+{
+  "name": "DevoAPT",
+  "description": "Unified multimodal AI terminal with Live with AI real-time voice calls, Create Your Own app synthesizer (.exe, .apk, .ipa), Make Your Own OS custom ISO builder, custom AI model logos, neural speech synthesis, and generation of text, image, music, and video across 10 cognitive engine personas.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
